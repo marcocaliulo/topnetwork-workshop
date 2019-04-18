@@ -27,6 +27,7 @@ Workshops partecipants:
 | ---------- | ------- | --------------------------- |
 | Alessandro | Poli    | alessandro.poli@mondora.com |
 | Manuel     | Serra   | manuel.serra@mondora.com    |
+| Marco      | Caliulo | marco.caliulo@top-network.it|
 
 Exercise: make your personal pull request and fill this table.
 
